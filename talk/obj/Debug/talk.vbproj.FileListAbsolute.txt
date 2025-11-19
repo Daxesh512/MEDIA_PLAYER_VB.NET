@@ -1,0 +1,62 @@
+C:\Users\10-12\Documents\VBnet\talk\talk\bin\Debug\talk.exe.config
+C:\Users\10-12\Documents\VBnet\talk\talk\bin\Debug\talk.exe
+C:\Users\10-12\Documents\VBnet\talk\talk\bin\Debug\talk.pdb
+C:\Users\10-12\Documents\VBnet\talk\talk\bin\Debug\talk.xml
+C:\Users\10-12\Documents\VBnet\talk\talk\bin\Debug\Interop.WMPLib.dll
+C:\Users\10-12\Documents\VBnet\talk\talk\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\Interop.WMPLib.dll
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\talk.vbproj.ResolveComReference.cache
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\talk.Form1.resources
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\talk.Resources.resources
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\talk.vbproj.GenerateResource.Cache
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\talk.exe
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\talk.xml
+C:\Users\10-12\Documents\VBnet\talk\talk\obj\Debug\talk.pdb
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\bin\Debug\talk.exe.config
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\Interop.WMPLib.dll
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\talk.vbproj.ResolveComReference.cache
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\talk.exe
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\talk.xml
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\talk.pdb
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\bin\Debug\talk.exe
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\bin\Debug\talk.pdb
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\bin\Debug\talk.xml
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\bin\Debug\Interop.WMPLib.dll
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\talk.Form1.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\talk.Resources.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnet\talk\talk\obj\Debug\talk.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\talk\talk\bin\Debug\talk.exe.config
+F:\Sem.4\VB.net Trials\talk\talk\bin\Debug\talk.exe
+F:\Sem.4\VB.net Trials\talk\talk\bin\Debug\talk.pdb
+F:\Sem.4\VB.net Trials\talk\talk\bin\Debug\talk.xml
+F:\Sem.4\VB.net Trials\talk\talk\bin\Debug\Interop.WMPLib.dll
+F:\Sem.4\VB.net Trials\talk\talk\bin\Debug\AxInterop.WMPLib.dll
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\Interop.WMPLib.dll
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\AxInterop.WMPLib.dll
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\talk.vbproj.ResolveComReference.cache
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\talk.Form1.resources
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\talk.Resources.resources
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\talk.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\talk.vbproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\talk.exe
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\talk.xml
+F:\Sem.4\VB.net Trials\talk\talk\obj\Debug\talk.pdb
+F:\Sem.4\extra vs code\media player\talk\bin\Debug\talk.exe.config
+F:\Sem.4\extra vs code\media player\talk\bin\Debug\talk.exe
+F:\Sem.4\extra vs code\media player\talk\bin\Debug\talk.pdb
+F:\Sem.4\extra vs code\media player\talk\bin\Debug\talk.xml
+F:\Sem.4\extra vs code\media player\talk\bin\Debug\Interop.WMPLib.dll
+F:\Sem.4\extra vs code\media player\talk\bin\Debug\AxInterop.WMPLib.dll
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\Interop.WMPLib.dll
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\AxInterop.WMPLib.dll
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\talk.vbproj.ResolveComReference.cache
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\talk.Form1.resources
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\talk.Resources.resources
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\talk.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\talk.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\talk.exe
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\talk.xml
+F:\Sem.4\extra vs code\media player\talk\obj\Debug\talk.pdb
